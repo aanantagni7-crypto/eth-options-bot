@@ -1,1 +1,0 @@
-worker: sh -c "pip install --only-binary :all: pandas requests python-dotenv && python main.py"
